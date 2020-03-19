@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1f89f36-d173-4187-a761-6a0c4cf3b674" name="Default Changelist" comment="">
+    <list default="true" id="a1f89f36-d173-4187-a761-6a0c4cf3b674" name="Default Changelist" comment="2020/3/19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../网课/python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.ee4">
@@ -173,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584545324753</updated>
       <workItem from="1584545329814" duration="5766000" />
-      <workItem from="1584577427328" duration="21056000" />
+      <workItem from="1584577427328" duration="21607000" />
     </task>
     <task id="LOCAL-00001" summary="第二次上传">
       <created>1584551999707</created>
@@ -247,14 +248,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="231" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584629995003" />
-    <state x="152" y="125" width="1200" height="584" key="DiffContextDialog" timestamp="1584625827328">
+    <state x="123" y="136" width="1200" height="584" key="DiffContextDialog" timestamp="1584630672756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="152" y="125" width="1200" height="584" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584625827328" />
-    <state x="561" y="155" key="FileChooserDialogImpl" timestamp="1584552361343">
+    <state x="123" y="136" width="1200" height="584" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584630672756" />
+    <state x="561" y="155" key="FileChooserDialogImpl" timestamp="1584630177259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="561" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584552361343" />
+    <state x="561" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584630177259" />
     <state width="1493" height="263" key="GridCell.Tab.0.bottom" timestamp="1584625725823">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
